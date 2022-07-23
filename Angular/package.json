@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@auth0/angular-jwt": "^5.0.2",
+    "@fortawesome/angular-fontawesome": "^0.10.2",
+    "font-awesome": "^4.7.0"
+  }
+}
